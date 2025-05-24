@@ -89,7 +89,7 @@
   <h1>Welcome to Your Student Dashboard</h1>
   <p>Navigate through your academic tools:</p>
   <nav>
-    <a href="subjects.html">Subjects & Progress</a>
+    <a href="https://angelo2009sheen.github.io/Subjects/">Subjects & Progress</a>
     <a href="calender.html">Calendar</a>
     <a href="textbooks.html">PDFs & Textbooks</a>
     <a href="To-do-list.html">To-Do / Assignments</a>
